@@ -1,7 +1,7 @@
 import React from "react";
 
-import ImageCompressor from "./components/ImageCompressor";
+import BackgroundRemover from "./components/BackgroundRemover";
 
-const App = () => <ImageCompressor />;
+const App = () => <BackgroundRemover />;
 
 export default App;
